@@ -1,10 +1,7 @@
-<html style="height: 100%;">
-<head>
+<html lang="en" style="
+    background-color: black;
+"><head><meta charset="utf-8"><link rel="icon" href="/gadget-item.jpg"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#000000"><meta name="description" content="Web site created using create-react-app"><link rel="apple-touch-icon" href="/gadget-item.jpg"><link rel="manifest" href="/manifest.json"><title>Gadget Item</title><script defer="defer" src="/static/js/main.33433f5f.js"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"><div>
     <meta name="viewport" content="width=device-width, minimum-scale=0.1">
     <title>gadget-item coming soon.png (1080×1080)</title>
-</head>
-<body style="margin: 0px;height: 100%;background-color: rgb(3 3 10);"><img
-        style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
-        src="https://github.com/sahayogi2280/Electronics-html-design/blob/main/gadget-item%20coming%20soon.png?raw=true"
-        width="945" height="945"></body>
-</html>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/sahayogi2280/Electronics-html-design/blob/main/gadget-item%20coming%20soon.png?raw=true" width="945" height="945">
+</div></div></body></html>
